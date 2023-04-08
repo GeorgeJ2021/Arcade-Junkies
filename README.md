@@ -3,7 +3,8 @@
 
 **Overview:**
 
-Asteroid Junkies is a 2D space shooter game where the player takes on the role of a pilot defending the earth from the Asteroids which have an extinction level thread on earth. The game is set in the distant future where humanity witnessed the cosmic makeover it could cause if the asteroid hits the earth to say it in simpleton words if the asteroid hit the earth you are toasted. The player will pilot a spacecraft and engage in intense space battles against waves of asteroids, while collecting power-ups and upgrading their ship's weapons and abilities.
+Asteroid Junkies is a 2D space shooter game where the player takes on the role of a pilot defending the earth from the Asteroids which have an extinction level threat
+on earth. The game is set in the distant future where humanity witnessed the cosmic makeover it could cause if the asteroid hits the earth to say it in simpleton words if the asteroid hit the earth you are toasted. The player will pilot a spacecraft and engage in intense space battles against waves of asteroids, while collecting power-ups and upgrading their ship's weapons and abilities.
 
 **Gameplay:**
 
