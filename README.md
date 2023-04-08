@@ -12,17 +12,17 @@ Asteroid Junkies is an action-packed game that challenges the player's reflexes 
 
 The game is an endless runner where it progressively gets more difficult in time. The player's objective is to destroy the asteroids before it destroys the earth.
 
-At the start of the game, the player can customize their spacecraft by choosing its color, shape, and weapons. The game will feature a variety of weapons such as lasers, missiles, and bombs, with each weapon having its own strengths and weaknesses. The player can also upgrade their ship's armor, shields, and speed by collecting power-ups throughout the game.
+At the start of the game, the player can customize their spacecraft by choosing its color, shape, and weapons. The game will feature a variety of weapons such as lasers, missiles, and bombs, with each weapon having its own strengths and weaknesses. The player can also upgrade the ship's armor, shields, and speed by collecting power-ups throughout the game.
 
 The game will feature swipe controls that allow the player to navigate their spacecraft left or right. The player can move their ship in any direction using the arrow keys or a joystick and fire their weapons using the spacebar or a designated button.
 
 **Art Style:**
 
-Asteroid Junkies will feature a retro 2D pixel art style The game's art style will be vibrant and colourful 2D graphics that bring the game's space environments to life. The game's art style will be inspired by classic arcade games, with a modern twist.
+Asteroid Junkies will feature a retro 2D pixel art style with vibrant and colourful 2D graphics that bring the game's space environments to life. The game's art style is inspired by classic arcade games, with a modern twist.
 
 **Sound and Music:**
 
-The game will feature an energetic and exciting soundtrack that matches the game's fast-paced action. The sound effects will be realistic and immersive, enhancing the player's experience.
+The game features an energetic and exciting soundtrack that matches the game's fast-paced action. The sound effects are realistic and immersive, enhancing the player's experience.
 
 **Target Audience:**
 
