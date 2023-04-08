@@ -35,3 +35,5 @@ Asteroid Junkies will be available on mobile devices only.
 **Conclusion:**
 
 Asteroid Junkies is an exciting and action-packed 2D pixel space shooter game that will challenge players to defend the earth from asteroids. With its challenging levels, sound effects cut scene and retro pixel art style, it promises to be a thrilling experience for fans of the genre.
+
+**Video of Gameplay:** https://www.youtube.com/watch?v=Qq7BXvmMoAA
