@@ -1,5 +1,10 @@
 # Arcade-Junkies
 ## Game Title: Asteroid Junkies 
+### Team Members 
+#### George Jose (20BCG10019)
+#### Praveen.K V (20BCG10073)
+#### Nandakishor. V (20BCG10057)
+
 
 **Overview:**
 
